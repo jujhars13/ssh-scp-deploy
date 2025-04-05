@@ -1,6 +1,6 @@
-name: 'SSH-SCP Server Deploy'
-author: 'Collez'
-description: 'Deploys files and executes commands to a remote host'
+name: 'SSH-SCP-upload-deploy'
+author: 'jujhars13'
+description: 'Deploys files and executes pre and post hooks to a remote host'
 
 inputs:
   host:
